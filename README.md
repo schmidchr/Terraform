@@ -1,5 +1,5 @@
 # Terraform
-TestDrive Terraform system and to learn about the advantages of Infrastructure as Code (IaC)
+TestDrive Terraform system to learn about the advantages of Infrastructure as Code (IaC)
 
 Promising aspects of the Terraform tool:<br>
 	- options to define computing infrastructure in human and machine-readable code<br>
